@@ -4,7 +4,7 @@
 
 O projeto 3ª_lista_exercicios_AM_II corresponde a uma lista de dez questões da disciplina de Autoração Multimídia II ministrada pelo professor Wellington Sarmento.
 
-As questões e respostas foram escritas colocadas de forma individual.
+As questões e respostas foram escritas e colocadas de forma individual.
 
 # Tecnologias utilizadas
 
