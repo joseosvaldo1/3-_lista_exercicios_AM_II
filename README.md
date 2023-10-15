@@ -24,7 +24,7 @@ As questões e respostas foram escritas colocadas de forma individual.
 
 # Autor(es):
 
-José Osvaldo Nogueira Bezerra
-Luiz Felipe Carvalho da Costa
+## José Osvaldo Nogueira Bezerra
+## Luiz Felipe Carvalho da Costa
 
 
