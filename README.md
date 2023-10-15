@@ -14,8 +14,12 @@ As questões e respostas foram escritas colocadas de forma individual.
 
 # Como executar o projeto
 
-Faça o download do arquivo "Lista_II_AM_II_POR_QUESTÃO" e  realize um duplo clique no arquivo "index_(numero da questão)". Dessa forma, a questão e a resolução da mesma irá aparecer em seu web browser padrão. Com a questão aberta, poderá ser realizada a interação com a resposta.
-
+1. Faça o download do arquivo comprimido (.rar) "Lista_II_AM_II_POR_QUESTÃO";
+2. Proceda a descompactação em sua máquina;
+3. CLique no na pasta "Lista_II_AM_II_POR_QUESTÃO";
+4. Dentro na pasta anterior, clique na pasta "Questão_(número da questão escolhida)";
+5. Dê um duplo clique no arquivo "index_(número da questão escolhida)";
+6. Em seu navegador de internet padrão, realize a interação com a resposta da questão.
 
 
 # Autor(es):
