@@ -21,5 +21,6 @@ Faça o download do arquivo "Lista_II_AM_II_POR_QUESTÃO" e  realize um duplo cl
 # Autor(es):
 
 José Osvaldo Nogueira Bezerra
+Luiz Felipe Carvalho da Costa
 
 
